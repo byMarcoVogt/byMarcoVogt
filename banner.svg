@@ -15,6 +15,8 @@
 .l3{opacity:0;animation:al3 12.0s infinite linear}
 @keyframes al4{0%,43.33%{opacity:0}44.33%,95.00%{opacity:1}97.50%,100%{opacity:0}}
 .l4{opacity:0;animation:al4 12.0s infinite linear}
+@keyframes al6{0%,46.67%{opacity:0}47.67%,95.00%{opacity:1}97.50%,100%{opacity:0}}
+.l6{opacity:0;animation:al6 12.0s infinite linear}
 @keyframes al5{0%,50.00%{opacity:0}51.00%,95.00%{opacity:1}97.50%,100%{opacity:0}}
 .l5{opacity:0;animation:al5 12.0s infinite linear}
 @keyframes ac2{0%,55.00%{opacity:0}55.08%,95.00%{opacity:1}97.50%,100%{opacity:0}}
@@ -33,12 +35,13 @@
 <g class="cmd"><text x="490.70" y="116" fill="#E8E6E1" textLength="308.55" lengthAdjust="spacingAndGlyphs">npx skills add byMarcoVogt/skills</text></g>
 <rect class="cover" x="489.70" y="96" width="320.55" height="28" fill="#16181D"/>
 <g class="cur"><g class="c1"><rect class="blink" x="490.70" y="102" width="9" height="18" fill="#E8E6E1"/></g></g>
-<g class="box"><rect x="494" y="164" width="360" height="98" rx="6" fill="none" stroke="#3A3E46" stroke-width="1.2"/></g>
+<g class="box"><rect x="494" y="158" width="360" height="110" rx="6" fill="none" stroke="#3A3E46" stroke-width="1.2"/></g>
 <g class="l1"><text x="472" y="152" fill="#E8E6E1"><tspan fill="#8B9099">◇</tspan>  Available Skills</text></g>
-<g class="l2"><text x="514" y="190" fill="#E8E6E1">close-the-gap</text></g>
-<g class="l3"><text x="514" y="216" fill="#E8E6E1">house-style</text></g>
-<g class="l4"><text x="514" y="242" fill="#E8E6E1">think-it-through</text></g>
-<g class="l5"><text x="472" y="292" fill="#E8E6E1"><tspan fill="#4FA36E">✓</tspan>  <tspan fill="#4FA36E">Installed 3 skills</tspan></text></g>
+<g class="l2"><text x="514" y="182" fill="#E8E6E1">close-the-gap</text></g>
+<g class="l3"><text x="514" y="206" fill="#E8E6E1">earn-its-place</text></g>
+<g class="l4"><text x="514" y="230" fill="#E8E6E1">house-style</text></g>
+<g class="l6"><text x="514" y="254" fill="#E8E6E1">think-it-through</text></g>
+<g class="l5"><text x="472" y="292" fill="#E8E6E1"><tspan fill="#4FA36E">✓</tspan>  <tspan fill="#4FA36E">Installed 4 skills</tspan></text></g>
 <g class="c2"><text x="472" y="328" fill="#E8E6E1"><tspan fill="#8B9099">$</tspan></text><rect class="blink" x="490.70" y="314" width="9" height="18" fill="#E8E6E1"/></g>
 </g>
 </svg>
