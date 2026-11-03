@@ -1,32 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400">
-<style>@keyframes type{0%,6.67%{transform:translateX(0)}27.50%,100%{transform:translateX(308.55px)}}
-.cover,.cur{animation:type 12.0s infinite;animation-timing-function:steps(33,end)}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 472" width="1280" height="472">
+<style>@keyframes type{0%,4.44%{transform:translateX(0)}18.33%,100%{transform:translateX(308.55px)}}
+.cover,.cur{animation:type 18.0s infinite;animation-timing-function:steps(33,end)}
+@keyframes type2{0%,40.00%{transform:translateX(0)}59.44%,100%{transform:translateX(617.10px)}}
+.cover2,.cur2{animation:type2 18.0s infinite;animation-timing-function:steps(66,end)}
 @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
 .blink{animation:blink 1s step-end infinite}
-@keyframes c1{0%,30.83%{opacity:1}31.25%,100%{opacity:0}}
-.c1{animation:c1 12.0s infinite step-end}
-@keyframes al1{0%,32.50%{opacity:0}33.50%,95.00%{opacity:1}97.50%,100%{opacity:0}}
-.l1{opacity:0;animation:al1 12.0s infinite linear}
-@keyframes abox{0%,36.67%{opacity:0}37.67%,95.00%{opacity:1}97.50%,100%{opacity:0}}
-.box{opacity:0;animation:abox 12.0s infinite linear}
-@keyframes al2{0%,36.67%{opacity:0}37.67%,95.00%{opacity:1}97.50%,100%{opacity:0}}
-.l2{opacity:0;animation:al2 12.0s infinite linear}
-@keyframes al3{0%,40.00%{opacity:0}41.00%,95.00%{opacity:1}97.50%,100%{opacity:0}}
-.l3{opacity:0;animation:al3 12.0s infinite linear}
-@keyframes al4{0%,43.33%{opacity:0}44.33%,95.00%{opacity:1}97.50%,100%{opacity:0}}
-.l4{opacity:0;animation:al4 12.0s infinite linear}
-@keyframes al6{0%,46.67%{opacity:0}47.67%,95.00%{opacity:1}97.50%,100%{opacity:0}}
-.l6{opacity:0;animation:al6 12.0s infinite linear}
-@keyframes al5{0%,50.00%{opacity:0}51.00%,95.00%{opacity:1}97.50%,100%{opacity:0}}
-.l5{opacity:0;animation:al5 12.0s infinite linear}
-@keyframes ac2{0%,55.00%{opacity:0}55.08%,95.00%{opacity:1}97.50%,100%{opacity:0}}
-.c2{opacity:0;animation:ac2 12.0s infinite linear}
+@keyframes c1{0%,20.56%{opacity:1}20.83%,100%{opacity:0}}
+.c1{animation:c1 18.0s infinite step-end}
+@keyframes al1{0%,21.67%{opacity:0}22.67%,95.00%{opacity:1}97.50%,100%{opacity:0}}
+.l1{opacity:0;animation:al1 18.0s infinite linear}
+@keyframes abox{0%,24.44%{opacity:0}25.44%,95.00%{opacity:1}97.50%,100%{opacity:0}}
+.box,.l2{opacity:0;animation:abox 18.0s infinite linear}
+@keyframes al3{0%,26.67%{opacity:0}27.67%,95.00%{opacity:1}97.50%,100%{opacity:0}}
+.l3{opacity:0;animation:al3 18.0s infinite linear}
+@keyframes al4{0%,28.89%{opacity:0}29.89%,95.00%{opacity:1}97.50%,100%{opacity:0}}
+.l4{opacity:0;animation:al4 18.0s infinite linear}
+@keyframes al6{0%,31.11%{opacity:0}32.11%,95.00%{opacity:1}97.50%,100%{opacity:0}}
+.l6{opacity:0;animation:al6 18.0s infinite linear}
+@keyframes al5{0%,33.33%{opacity:0}34.33%,95.00%{opacity:1}97.50%,100%{opacity:0}}
+.l5{opacity:0;animation:al5 18.0s infinite linear}
+@keyframes ap2{0%,36.67%{opacity:0}36.75%,95.00%{opacity:1}97.50%,100%{opacity:0}}
+.p2{opacity:0;animation:ap2 18.0s infinite linear}
+@keyframes ac3{0%,36.67%{opacity:0}36.75%,61.67%{opacity:1}61.75%,100%{opacity:0}}
+.c3{opacity:0;animation:ac3 18.0s infinite step-end}
+@keyframes ar1{0%,63.33%{opacity:0}64.33%,95.00%{opacity:1}97.50%,100%{opacity:0}}
+.r1{opacity:0;animation:ar1 18.0s infinite linear}
+@keyframes ac4{0%,66.67%{opacity:0}66.75%,95.00%{opacity:1}97.50%,100%{opacity:0}}
+.c4{opacity:0;animation:ac4 18.0s infinite linear}
 @keyframes cmdf{0%,95.00%{opacity:1}97.50%,100%{opacity:0}}
-.cmd{animation:cmdf 12.0s infinite linear}</style>
-<rect width="1280" height="400" fill="#E7E5E0"/>
-<text x="64" y="200" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" font-size="50" fill="#18191B">Marco Vogt</text>
-<text x="66" y="238" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#6A6B6E">@byMarcoVogt</text>
-<rect x="440" y="48" width="776" height="304" rx="12" fill="#16181D"/>
+.cmd{animation:cmdf 18.0s infinite linear}</style>
+<rect width="1280" height="472" fill="#E7E5E0"/>
+<text x="64" y="236" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" font-size="50" fill="#18191B">Marco Vogt</text>
+<text x="66" y="274" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#6A6B6E">@byMarcoVogt</text>
+<rect x="440" y="48" width="776" height="376" rx="12" fill="#16181D"/>
 <line x1="440" y1="84" x2="1216" y2="84" stroke="#2A2D34" stroke-width="1"/>
 <g fill="#3A3E46"><circle cx="466" cy="66" r="6"/><circle cx="486" cy="66" r="6"/><circle cx="506" cy="66" r="6"/></g>
 <text x="828.0" y="71" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#8B9099">~/work | zsh</text>
@@ -42,6 +48,12 @@
 <g class="l4"><text x="514" y="230" fill="#E8E6E1">house-style</text></g>
 <g class="l6"><text x="514" y="254" fill="#E8E6E1">think-it-through</text></g>
 <g class="l5"><text x="472" y="292" fill="#E8E6E1"><tspan fill="#4FA36E">✓</tspan>  <tspan fill="#4FA36E">Installed 4 skills</tspan></text></g>
-<g class="c2"><text x="472" y="328" fill="#E8E6E1"><tspan fill="#8B9099">$</tspan></text><rect class="blink" x="490.70" y="314" width="9" height="18" fill="#E8E6E1"/></g>
+<g class="p2"><text x="472" y="328" fill="#E8E6E1"><tspan fill="#8B9099">$</tspan></text></g>
+<g class="cmd"><text x="490.70" y="328" fill="#E8E6E1" textLength="617.10" lengthAdjust="spacingAndGlyphs">claude plugin install token-report --marketplace byMarcoVogt/mods</text></g>
+<clipPath id="term"><rect x="440" y="48" width="776" height="376" rx="12"/></clipPath>
+<g clip-path="url(#term)"><rect class="cover2" x="489.70" y="308" width="629.10" height="28" fill="#16181D"/></g>
+<g class="cur2"><g class="c3"><rect class="blink" x="490.70" y="314" width="9" height="18" fill="#E8E6E1"/></g></g>
+<g class="r1"><text x="472" y="364" fill="#E8E6E1"><tspan fill="#4FA36E">✓</tspan>  <tspan fill="#4FA36E">Installed token-report</tspan>  <tspan fill="#8B9099">a mod for the Claude desktop app</tspan></text></g>
+<g class="c4"><text x="472" y="400" fill="#E8E6E1"><tspan fill="#8B9099">$</tspan></text><rect class="blink" x="490.70" y="386" width="9" height="18" fill="#E8E6E1"/></g>
 </g>
 </svg>
