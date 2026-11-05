@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Marco Vogt, @byMarcoVogt. A terminal installs his skills: close-the-gap, house-style, skill-trials, think-it-through. Then it installs token-report, a mod for the Claude desktop app." width="100%">
+<img src="banner.svg" alt="Marco Vogt, @byMarcoVogt. A terminal installs his skills: close-the-gap, skill-trials, think-it-through. Then it installs token-report, a mod for the Claude desktop app." width="100%">
 
 **You don't learn AI from a course. You learn it by building, and learning alongside.**
 
